@@ -1,3 +1,4 @@
+# Comes from docker hub by default. If you go to docker hub and search python you will find it. 
 FROM python:3.10-slim-buster
 
 # makes a directory inside the Container 
